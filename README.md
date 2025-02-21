@@ -1,2 +1,7 @@
 # Namp_Tool
-This is the work i did on the Nmap network mapper tool for information gathering of the target  
+![image](https://github.com/user-attachments/assets/9762ef6d-452b-4759-b0ed-a090fffd4290)
+
+This is the work I did on the Nmap network mapper tool for information gathering of the target For a cybersecurity enthusiast or professional, mastering network scanning tools is very important to comprehending and assessing the security position of networks and systems. Nmap, an influential and versatile Network Mapper, is the go-to tool for network reconnaissance and vulnerability detection. As you begin your journey in ethical hacking or work towards developing your penetration testing skills, it is imperative to learn the key Nmap commands. The following 30 Nmap basic commands will provide a good starting point for scanning networks efficiently, finding live hosts, discovering opened ports, and obtaining useful details on services hosted on those machines. With Nmap in your toolbox, you will be armed with the necessary tools to understand the intricacies of network exploration and uncover any possible vulnerabilities that could breach security within the digital landscape.
+
+What is NMAP?
+Nmap (Network Mapper) is a powerful tool that helps you discover and gather information about devices and services running on a network. In simple terms, Nmap is like a special tool that lets you see which computers or devices are connected to a network and what programs or applications are running on them. It's like having a special pair of glasses that can see which houses have people living in them and what kinds of activities are happening inside each home.
